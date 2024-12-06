@@ -13,3 +13,22 @@ html , body {
 .navbar {
     background-color: black !important;
 }
+.bi {
+    font-size: 25px;
+    
+    
+}
+.geners {
+   height: 40px;
+}
+.profile {
+    width: 140px;
+}
+.checbox1 {
+   width: 30px;
+    height: 30px;
+  color: black;
+  background-color: black;
+}
+
+
