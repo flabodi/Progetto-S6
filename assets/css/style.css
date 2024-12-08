@@ -30,8 +30,20 @@ html , body {
   color: black;
   background-color: black;
 }
- .avatar {
+
+
+
+.avatar {
     width: 20px;
-    height: 30px;
- }
+    height: 100%;
+   
+  
+    margin: 0 auto; 
+}
+
+.profile-name {
+    color: #fff; 
+    font-size: 14px;
+    margin-top: 5px;
+}
 
